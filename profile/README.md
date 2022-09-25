@@ -1,5 +1,10 @@
 <div dir="rtl" align="center">
-<img src="https://i.suar.me/n9vGN/m" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://i.suar.me/o9K27/m">
+  <source media="(prefers-color-scheme: light)" srcset="https://i.suar.me/n9vGN/m">
+  <img src="https://i.suar.me/n9vGN/m" height="200">
+</picture>
 
 مجتمع رست العربي، هو مجتمع للغة البرمجة Rust أُنشئ في عام 2018 بجهود فردية من قبل [مهند الرسيني].</br>
 هدفنا إنشاء مجتمع لدعم مبرمجي Rust العرب ومناقشة آخر أخبار اللغة والحديث عنها، بالإضافة لمساعدة أي عضو يواجه مشكلة برمجية.<br>
