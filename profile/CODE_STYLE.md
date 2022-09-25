@@ -7,7 +7,7 @@
 
 <div dir="rtl">
 
-هنا اسلوب كتابة الاكواد الذي يجب على كل مساهم اتباعه. من فضلك، اقرأ الوثيقة بأكملها قبل أن تبدأ في رفع الاكواد.
+هنا اسلوب كتابة الاكواد الذي يجب على كل مساهم اتباعه. من فضلك، اقرأ الوثيقة بأكملها قبل أن تبدأ برفع الاكواد.
 
 ## Generics
 دائمآ قم بكتابتها بـ `where`
@@ -161,4 +161,4 @@ C: Into<String>, { ... }
 
 </div>
 
-> source: [teloxide/CODE_STYLE.md](https://github.com/teloxide/teloxide/blob/master/CODE_STYLE.md)
+> المصدر: [teloxide/CODE_STYLE.md](https://github.com/teloxide/teloxide/blob/master/CODE_STYLE.md)
