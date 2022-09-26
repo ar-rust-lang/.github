@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/umamawme/.github/raw/main/profile/assets/rust-logo-light.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/umamawme/.github/raw/main/profile/assets/rust-logo-dark.png">
-  <img src="https://github.com/umamawme/.github/raw/main/profile/assets/rust-logo-dark.png" height="200">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ar-rust-lang/.github/raw/main/profile/assets/rust-logo-light.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ar-rust-lang/.github/raw/main/profile/assets/rust-logo-dark.png">
+  <img src="https://github.com/ar-rust-lang/.github/raw/main/profile/assets/rust-logo-dark.png" height="200">
 </picture>
    
 <h1>المساهمة</h1>
