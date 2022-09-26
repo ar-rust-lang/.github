@@ -1,9 +1,9 @@
 <div dir="rtl" align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/rust-logo-light.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/rust-logo-dark.png">
-  <img src="assets/rust-logo-dark.png" height="200">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ar-rust-lang/.github/raw/main/profile/assets/rust-logo-light.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ar-rust-lang/.github/raw/main/profile/assets/rust-logo-dark.png">
+  <img src="https://github.com/ar-rust-lang/.github/raw/main/profile/assets/rust-logo-dark.png" height="200">
 </picture>
 
 مجتمع رست العربي، هو مجتمع للغة البرمجة Rust أُنشئ في عام 2018 بجهود فردية من قبل [مهند الرسيني].</br>
