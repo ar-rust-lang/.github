@@ -2,12 +2,12 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://i.suar.me/o9K27/m">
-  <source media="(prefers-color-scheme: light)" srcset="https://i.suar.me/n9vGN/m">
-  <img src="https://i.suar.me/n9vGN/m" height="200">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ar-rust-lang/.github/raw/main/profile/assets/rust-logo-light.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ar-rust-lang/.github/raw/main/profile/assets/rust-logo-dark.png">
+  <img src="https://github.com/ar-rust-lang/.github/raw/main/profile/assets/rust-logo-dark.png" height="200">
 </picture>
 
-<h1>اسلوب الكود</h1>
+<h1>اسلوب الكتابة</h1>
 
 </div>
 
@@ -128,7 +128,7 @@ impl ErrorKind {
 </div>
 
 <details>
-    <summary>الميزد من الامثلة</summary>
+    <summary>المزيد من الامثلة</summary>
     
 #### الطريقة الخاطئة
 <div dir="ltr">
@@ -157,7 +157,7 @@ C: Into<String>, { ... }
 
 
 ## التسمية
-* ابتعد عن التكرار غير الضروري، مثال `Message::message_id` اجعلها `Message::id` ويمكنك استخدام `[serde(rename = "message_id")]#` اذ لزم.
+* ابتعد عن التكرار الغير ضروري، مثال `Message::message_id` اجعلها `Message::id` ويمكنك استخدام `[serde(rename = "message_id")]#` اذ لزم.
 * اما في الـ generic استخدم الاسم `S` للـ streams، واستخدم `Fut` للـ futures، واستخدم `F` للدوال ( قدر المستطاع ).
 
 ## عامة

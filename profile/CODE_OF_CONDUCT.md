@@ -6,7 +6,9 @@
   <img src="https://github.com/ar-rust-lang/.github/raw/main/profile/assets/rust-logo-dark.png" height="200">
 </picture>
 
-لا يرحب المجتمع بالكلمات الجارحة والتقليل أو الاستخفاف بأحد الأعضاء أو بسؤاله، سيُحظر كل شخص ينتهك قوانين المجتمع، نحن نطبق هذه [السياسة السلوكية][code-of-conduct] لنكون مجتمعاً ودوداً وغير منفر.<br> 
+# السياسة السلوكية
+
+لا يرحب المجتمع بالكلمات الجارحة والتقليل أو الاستخفاف بأحد الأعضاء أو بسؤاله، سيُحظر كل شخص ينتهك سياسة المجتمع، نحن نطبق هذه [السياسة السلوكية][code-of-conduct] لنكون مجتمعاً ودوداً وغير منفر.<br> 
 </div>
 
 [code-of-conduct]: https://www.rust-lang.org/policies/code-of-conduct
